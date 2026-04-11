@@ -29,3 +29,11 @@
 *Aplicación para contrastar diferentes datos metereológicos*
 - **Tech stack:** PHP, Python, MySQL.
 - [Ver Repositorio](https://github.com/dgutierreznav/meteosapa)
+
+---
+
+## Contcto
+
+- **Email:** dgutierreznavio@gmail.com
+- **Linkedin:**
+- **Web:** davidgutierrez.es
