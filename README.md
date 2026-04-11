@@ -7,7 +7,6 @@
 ---
 
 ## Habilidades
-**Sistemas**
 
 | Área | Tecnologías |
 | :--- | :--- |
@@ -21,12 +20,12 @@
 
 ## Proyectos Destacados
 
-### [Nombre del Proyecto 1]
-*Descripción breve de 1 o 2 líneas sobre qué problema resuelve y qué hace.*
-- **Tech stack:** React, Firebase, TailWind.
-- [Ver Repositorio](https://github.com/dgutierreznav/proyecto-1) | [Demo en vivo](https://tu-demo.com)
+### Dataclysm
+*Proyecto de creacion de una aplicación para la gestión de una cadena hotelera.*
+- **Tech stack:** Python, PostgreSQL, Tkinter.
+- [Ver Repositorio](https://github.com/dgutierreznav/dataclysm)
 
-### [Nombre del Proyecto 2]
-*Descripción breve del proyecto.*
-- **Tech stack:** Python, Flask, PostgreSQL.
-- [Ver Repositorio](https://github.com/dgutierreznav/proyecto-2)
+### Meteosapa
+*Aplicación para contrastar diferentes datos metereológicos*
+- **Tech stack:** PHP, Python, MySQL.
+- [Ver Repositorio](https://github.com/dgutierreznav/meteosapa)
