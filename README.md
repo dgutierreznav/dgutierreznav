@@ -35,5 +35,5 @@
 ## Contcto
 
 - **Email:** dgutierreznavio@gmail.com
-- **Linkedin:**[linkedin.com/in/davidgutierreznavio](https://www.linkedin.com/in/davidgutierreznavio/)
+- **Linkedin:** [linkedin.com/in/davidgutierreznavio](https://www.linkedin.com/in/davidgutierreznavio/)
 - **Web:** [davidgutierrez.es](https://davidgutierrez.es)
