@@ -32,7 +32,7 @@
 
 ---
 
-## Contcto
+## Contacto
 
 - **Email:** dgutierreznavio@gmail.com
 - **Linkedin:** [linkedin.com/in/davidgutierreznavio](https://www.linkedin.com/in/davidgutierreznavio/)
