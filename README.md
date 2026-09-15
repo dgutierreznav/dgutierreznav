@@ -2,7 +2,7 @@
 
 ## Sobre mí
 - **Técnico Superior en Administración de Sistemas Informáticos en Red.**
-- Actualmente estudiando **Curso de Especialicación Inteligencia Artificial y Big Data**.
+- Actualmente estudiando **Curso de Especialicación en Inteligencia Artificial y Big Data**.
 - Me apasiona la tecnología en todas sus facetas.
 - Disfruto creando proyectos que combinan la administración de sistemas, la resolución de problemas técnicos y aplicaciones prácticas para el mundo real.
 
