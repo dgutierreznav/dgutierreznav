@@ -1,7 +1,8 @@
 # ¡Hola! Soy David Gutiérrez
 
 ## Sobre mí
-- Me apasiona la tecnología en todas sus facetas. Actualmente soy estudiante de **ASIR (Administración de Sistemas Informáticos en Red)**.
+- **Técnico Superior en Administración de Sistemas Informáticos en Red**
+- Me apasiona la tecnología en todas sus facetas. Actualmente estudiando **Curso de Especialicación Inteligencia Artificial y Big Data**.
 - Disfruto creando proyectos que combinan la administración de sistemas, la resolución de problemas técnicos y aplicaciones prácticas para el mundo real.
 
 ---
